@@ -65,7 +65,7 @@ btn.addEventListener('click', function(){
     hexKolor += hex[getRandomNumber()];
   }
 
-  kolor.textContent = hexKolor;
+
   document.body.style.backgroundColor = hexKolor;
 });
 
