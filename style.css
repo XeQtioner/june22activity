@@ -15,7 +15,12 @@ body {
     animation-duration: 1s;
     animation-fill-mode: forwards;
   }
- 
+
+  #btn {
+    position: fixed;
+    right: 5%;
+  } 
+
   .tira-animation {
     animation-name: tira;
   }
